@@ -1,0 +1,14 @@
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.BIZ.deps.json
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.BIZ.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.AssemblyInfoInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.AssemblyInfo.cs
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.BIZ.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.DAL.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.COMMON.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\bin\Debug\netstandard2.0\Farmacia.DAL.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.csproj.CopyComplete
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.BIZ\obj\Debug\netstandard2.0\Farmacia.BIZ.pdb

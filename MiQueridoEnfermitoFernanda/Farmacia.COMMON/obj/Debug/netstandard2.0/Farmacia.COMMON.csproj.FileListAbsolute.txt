@@ -1,0 +1,9 @@
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.deps.json
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\bin\Debug\netstandard2.0\Farmacia.COMMON.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.csprojResolveAssemblyReference.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.AssemblyInfoInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.AssemblyInfo.cs
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.COMMON\obj\Debug\netstandard2.0\Farmacia.COMMON.pdb

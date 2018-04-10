@@ -1,0 +1,12 @@
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.COMMON.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.AssemblyInfoInputs.cache
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.AssemblyInfo.cs
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.deps.json
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.DAL.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\bin\Debug\netstandard2.0\Farmacia.COMMON.pdb
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.csproj.CopyComplete
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.dll
+C:\Users\jimena\Desktop\MiQueridoEnfermitoFernanda\Farmacia.DAL\obj\Debug\netstandard2.0\Farmacia.DAL.pdb
